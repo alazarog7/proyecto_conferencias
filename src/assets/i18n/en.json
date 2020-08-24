@@ -1,0 +1,17 @@
+{
+    "PRINCIPAL": {
+        "TITULO": "Meeting Days",
+        "DESCRIPCION": "September 6 to 8,2020"
+    },
+    "MENU": {
+        "INICIO": "Home",
+        "ACERCA": "About",
+        "ORADORES": "Speakers",
+        "REGISTRO": "Registration",
+        "NOTAS": "Resources",
+        "HORARIO": "Schedule"
+    },
+    "BOTONES": {
+        "VIVO": "LIVE"
+    }
+}

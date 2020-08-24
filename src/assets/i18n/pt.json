@@ -1,0 +1,17 @@
+{
+    "PRINCIPAL": {
+        "TITULO": "Dias de reunião",
+        "DESCRIPCION": "6 al 8 de Septiembre 2020"
+    },
+    "MENU": {
+        "INICIO": "Home",
+        "ACERCA": "Acerca",
+        "ORADORES": "Palestrantes",
+        "REGISTRO": "Registro",
+        "NOTAS": "Recursos",
+        "HORARIO": "Cronograma"
+    },
+    "BOTONES": {
+        "VIVO": "EM VIVO"
+    }
+}

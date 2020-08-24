@@ -1,0 +1,17 @@
+{
+    "PRINCIPAL": {
+        "TITULO": "Jornada de Reuniones",
+        "DESCRIPCION": "6 al 8 de Septiembre 2020"
+    },
+    "MENU": {
+        "INICIO": "Inicio",
+        "ACERCA": "Acerca",
+        "ORADORES": "Oradores",
+        "REGISTRO": "Registro",
+        "NOTAS": "Recursos",
+        "HORARIO": "Horarios"
+    },
+    "BOTONES": {
+        "VIVO": "EN VIVO"
+    }
+}
