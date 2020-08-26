@@ -3,7 +3,7 @@
     margin-bottom: 20px;
 }
 
-.dias li {
+.dias li ::after {
     display: inline-block;
     margin-left: 10px;
     margin-top: 10px;

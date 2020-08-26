@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./inicio.component.css']
 })
 export class InicioComponent implements OnInit {
-  evento =new Date('September 5, 2020 18:00:00 GMT-04:00');
+  evento = new Date('September 4, 2020 18:00:00');
   paginaEspera: boolean = true;
   dia: number = 0;
   hora:number = 0;
@@ -16,6 +16,7 @@ export class InicioComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log(this.evento)
    let dateTemp = new Date();
    let tiempoEspera = Math.floor((+this.evento - +dateTemp) / 1000);
    this.dia = Math.floor(tiempoEspera / 86400)

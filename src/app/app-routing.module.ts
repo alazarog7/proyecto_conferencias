@@ -15,13 +15,7 @@ const routes: Routes = [
     path:'horarios',component:HorariosComponent
   },
   {
-    path:'oradores',component:OradoresComponent
-  },
-  {
     path:'recursos',component:ApuntesComponent
-  },
-  {
-    path:'registro',component:RegistroComponent
   },
   { path: '',
     redirectTo: 'inicio',
