@@ -6,6 +6,7 @@ import { OradoresComponent } from './components/oradores/oradores.component';
 import { ApuntesComponent } from './components/apuntes/apuntes.component';
 import { RegistroComponent } from './components/registro/registro.component';
 import { InicioComponent } from './components/inicio/inicio.component';
+import { ContactoComponent } from './components/contacto/contacto.component';
 
 const routes: Routes = [
   {
@@ -16,6 +17,9 @@ const routes: Routes = [
   },
   {
     path:'recursos',component:ApuntesComponent
+  },
+  {
+    path:'contacto',component:ContactoComponent
   },
   { path: '',
     redirectTo: 'inicio',

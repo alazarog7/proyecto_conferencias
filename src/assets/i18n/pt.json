@@ -1,7 +1,7 @@
 {
     "PRINCIPAL": {
-        "TITULO": "Dias de reunião",
-        "DESCRIPCION": "4 al 7 de Septiembre 2020"
+        "TITULO": "Jornada de Estudos",
+        "DESCRIPCION": "4 a 7 de Setembro 2020"
     },
     "MENU": {
         "INICIO": "Home",
@@ -9,9 +9,23 @@
         "ORADORES": "Palestrantes",
         "REGISTRO": "Registro",
         "NOTAS": "Recursos",
-        "HORARIO": "Cronograma"
+        "HORARIO": "Cronograma",
+        "CONTACTO": "Contacto"
     },
     "BOTONES": {
         "VIVO": "EM VIVO"
+    },
+    "MESES": {
+        "SEPTIEMBRE": "SETEMBRO"
+    },
+    "VOCABULARIO": {
+        "DIAS": "DIAS",
+        "HORAS": "HORAS",
+        "MINUTOS": "MINUTO",
+        "SEGUNDOS": "SEGUNDOS"
+    },
+    "VERSO": {
+        "DESCRIPCION": "Oh! quão bom e quão suave é que os irmãos vivam em união!",
+        "REFERENCIA": " SALMOS 133:1"
     }
 }

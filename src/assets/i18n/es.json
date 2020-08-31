@@ -9,9 +9,24 @@
         "ORADORES": "Oradores",
         "REGISTRO": "Registro",
         "NOTAS": "Recursos",
-        "HORARIO": "Horarios"
+        "HORARIO": "Horarios",
+        "CONTACTO": "Contacto"
     },
     "BOTONES": {
         "VIVO": "EN VIVO"
+    },
+    "MESES": {
+        "SEPTIEMBRE": "SEPTIEMBRE"
+    },
+    "VOCABULARIO": {
+        "DIAS": "DIAS",
+        "HORAS": "HORAS",
+        "MINUTOS": "MINUTOS",
+        "SEGUNDOS": "SEGUNDOS"
+    },
+    "VERSO": {
+        "DESCRIPCION": "¡Mirad cuán bueno y cuán delicioso es Habitar los hermanos juntos en armonía!",
+        "REFERENCIA": "SALMOS 133:1"
     }
+
 }

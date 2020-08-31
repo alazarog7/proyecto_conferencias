@@ -2,7 +2,7 @@
     <div class="container opciones">
         <div class="row justify-content-center">
             <ul class="dias">
-                <li><button *ngFor="let dia of dias" class="btn btn-outline-primary" style="margin-right: 10px; margin-bottom: 10px;" (click)="verHorario(dia)"><i class="fa fa-calendar fa-sm" aria-hidden="true"></i> SEPTIEMBRE {{dia}}</button></li>
+                <li><button *ngFor="let dia of dias" class="btn btn-outline-primary" style="margin-right: 10px; margin-bottom: 10px;" (click)="verHorario(dia)"><i class="fa fa-calendar fa-sm" aria-hidden="true"></i> {{'MESES.SEPTIEMBRE'| translate}} {{dia}}</button></li>
             </ul>
         </div>
 
@@ -18,7 +18,7 @@
                         <div>
                             <div class="calendar_icon"><img src="assets/images/calendar.svg" alt=""></div>
                         </div>
-                        <div class="calendar_title">{{dia}} de septiembre</div>
+                        <div class="calendar_title">{{'MESES.SEPTIEMBRE'| translate}} {{dia}}</div>
                     </div>
                     <div class="calendar_items">
 

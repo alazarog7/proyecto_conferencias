@@ -1,6 +1,6 @@
 {
     "PRINCIPAL": {
-        "TITULO": "Meeting Days",
+        "TITULO": "Ministry Days",
         "DESCRIPCION": "September 4 to 7,2020"
     },
     "MENU": {
@@ -9,9 +9,23 @@
         "ORADORES": "Speakers",
         "REGISTRO": "Registration",
         "NOTAS": "Resources",
-        "HORARIO": "Schedule"
+        "HORARIO": "Schedule",
+        "CONTACTO": "Contact"
     },
     "BOTONES": {
         "VIVO": "LIVE"
+    },
+    "MESES": {
+        "SEPTIEMBRE": "SEPTEMBER"
+    },
+    "VOCABULARIO": {
+        "DIAS": "DAYS",
+        "HORAS": "HOURS",
+        "MINUTOS": "MINUTES",
+        "SEGUNDOS": "SECONDS"
+    },
+    "VERSO": {
+        "DESCRIPCION": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+        "REFERENCIA": "PSALM 133:1"
     }
 }

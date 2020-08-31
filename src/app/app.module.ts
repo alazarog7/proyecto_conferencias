@@ -15,6 +15,7 @@ import { Menu500Component } from './components/menus/menu500/menu500.component';
 import { MenuComponent } from './components/menus/menu/menu.component';
 import { InicioComponent } from './components/inicio/inicio.component';
 import { NumberWithCeroPipe } from './pipes/number-with-cero.pipe';
+import { ContactoComponent } from './components/contacto/contacto.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient);
@@ -31,6 +32,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     MenuComponent,
     InicioComponent,
     NumberWithCeroPipe,
+    ContactoComponent,
   ],
   imports: [
     BrowserModule,
